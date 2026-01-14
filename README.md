@@ -49,6 +49,8 @@ Transfer Learning (MobileNetV2) is selected as the optimal solution, achieving *
 
 **Dataset size:** ~25,000 images (150×150 RGB), resized to 96×96 for efficiency
 
+The intermediate_cnn_model.keras was not uploaded due to file size.
+
 ---
 
 *This notebook is part of the Coursera IBM Machine Learning Professional Certificate program.*
