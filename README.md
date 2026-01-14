@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This notebook implements Deep Learning models to automatically classify natural scenes into 6 categories (buildings, forest, glacier, mountain, sea, street) using the Intel Image Classification dataset. The project compares three CNN architectures to identify the optimal balance between accuracy and computational efficiency.
+This project implements Deep Learning models to automatically classify natural scenes into 6 categories (buildings, forest, glacier, mountain, sea, street) using the Intel Image Classification dataset. The project compares three CNN architectures to identify the optimal balance between accuracy and computational efficiency.
 
 **Dataset Source:** [Kaggle - Intel Image Classification](https://www.kaggle.com/datasets/puneet6060/intel-image-classification)
 
