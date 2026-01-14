@@ -1,1 +1,1 @@
-# Natural-Image--lassification
+# Natural-Image-Classification
